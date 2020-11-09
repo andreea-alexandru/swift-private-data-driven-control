@@ -1,7 +1,7 @@
 # swift-private-data-driven-control
 Encrypted computations for client-server private data-driven control.
 
-Proof of concept for the solutions proposed in the paper "Data-driven control on encrypted data" by Andreea B. Alexandru, Anastasios Tsiamis and George J. Pappas. This is an improvement in both runtime and memory compared to the code in the private-data-driven-control repository.
+Proof of concept for the solutions proposed in the paper "Data-driven control on encrypted data" by Andreea B. Alexandru, Anastasios Tsiamis and George J. Pappas, available at https://arxiv.org/pdf/2008.12671.pdf. This is an improvement in both runtime and memory compared to the code in the private-data-driven-control repository.
 
 I implemented the solutions in the PALISADE library https://gitlab.com/palisade/palisade-development, version 1.9.1. Please download and install the library in order to run this code.
 
